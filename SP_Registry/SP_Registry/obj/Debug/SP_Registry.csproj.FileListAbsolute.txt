@@ -1,0 +1,15 @@
+C:\Users\bodya\source\repos\SP_Registry\SP_Registry\bin\Debug\SP_Registry.exe.config
+C:\Users\bodya\source\repos\SP_Registry\SP_Registry\bin\Debug\SP_Registry.exe
+C:\Users\bodya\source\repos\SP_Registry\SP_Registry\bin\Debug\SP_Registry.pdb
+C:\Users\bodya\source\repos\SP_Registry\SP_Registry\obj\Debug\SP_Registry.csprojAssemblyReference.cache
+C:\Users\bodya\source\repos\SP_Registry\SP_Registry\obj\Debug\MainWindow.g.cs
+C:\Users\bodya\source\repos\SP_Registry\SP_Registry\obj\Debug\App.g.cs
+C:\Users\bodya\source\repos\SP_Registry\SP_Registry\obj\Debug\SP_Registry_MarkupCompile.cache
+C:\Users\bodya\source\repos\SP_Registry\SP_Registry\obj\Debug\SP_Registry_MarkupCompile.lref
+C:\Users\bodya\source\repos\SP_Registry\SP_Registry\obj\Debug\MainWindow.baml
+C:\Users\bodya\source\repos\SP_Registry\SP_Registry\obj\Debug\SP_Registry.g.resources
+C:\Users\bodya\source\repos\SP_Registry\SP_Registry\obj\Debug\SP_Registry.Properties.Resources.resources
+C:\Users\bodya\source\repos\SP_Registry\SP_Registry\obj\Debug\SP_Registry.csproj.GenerateResource.cache
+C:\Users\bodya\source\repos\SP_Registry\SP_Registry\obj\Debug\SP_Registry.csproj.CoreCompileInputs.cache
+C:\Users\bodya\source\repos\SP_Registry\SP_Registry\obj\Debug\SP_Registry.exe
+C:\Users\bodya\source\repos\SP_Registry\SP_Registry\obj\Debug\SP_Registry.pdb
