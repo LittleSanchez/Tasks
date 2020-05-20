@@ -1,0 +1,27 @@
+﻿<Window x:Class="PhoneList.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PhoneList"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="600">
+    <DockPanel>
+        <DockPanel DockPanel.Dock="Top" Height="30" Margin="5">
+            <Button IsDefault="True" Content="Search" Width="100" Margin="5 0 0 0"  DockPanel.Dock="Right" Click="Search_Click"/>
+            <TextBox x:Name="tbSearch" FontSize="18"/>
+        </DockPanel>
+        <ListBox x:Name="listPhones" MouseDoubleClick="listPhones_MouseDoubleClick">
+            <ListBox.ItemTemplate>
+                
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal" TextBlock.FontSize="18">
+                        <TextBlock Text="{Binding [Name]}"/>
+                        <TextBlock Text=" - "/>
+                        <TextBlock Text="{Binding [Phone]}"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+    </DockPanel>
+</Window>
